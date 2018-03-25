@@ -1,4 +1,4 @@
-# Hashtag-Couter
+# Hashtag Counter
 
  - Wrote for Introdução a Algoritmos e estruturas de Dados (Introduction to Algorithms and Data structures), a 1st Year module at Instituto Superior Técnico (IST) - University of Lisbon.
  
