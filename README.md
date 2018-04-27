@@ -4,3 +4,4 @@
  
  ## Why now
  - Though about giving this project another go in my free time, considered adding a few more features and improving the code.
+ - Não vai acontecer
